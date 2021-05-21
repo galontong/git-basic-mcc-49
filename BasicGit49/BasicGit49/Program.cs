@@ -8,6 +8,7 @@ namespace BasicGit49
         {
             Console.WriteLine("Daftar Particiapnt MCC 50");
             Console.WriteLine("Herul");
+            Console.WriteLine("Herul 13");
         }
     }
 }

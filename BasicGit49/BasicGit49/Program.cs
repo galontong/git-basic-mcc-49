@@ -6,8 +6,7 @@ namespace BasicGit49
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Daftar Particiapnt MCC 50");
-            Console.WriteLine("Herul");
+            Console.WriteLine("Hello World!");
         }
     }
 }
